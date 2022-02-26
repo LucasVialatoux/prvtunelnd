@@ -1,0 +1,1287 @@
+[
+    {
+        "name": "Andorra",
+        "solded": false,
+        "code": "AD"
+    },
+    {
+        "name": "United Arab Emirates",
+        "solded": false,
+        "code": "AE"
+    },
+    {
+        "name": "Afghanistan",
+        "solded": false,
+        "code": "AF"
+    },
+    {
+        "name": "Antigua and Barbuda",
+        "solded": false,
+        "code": "AG"
+    },
+    {
+        "name": "Anguilla",
+        "solded": false,
+        "code": "AI"
+    },
+    {
+        "name": "Albania",
+        "solded": false,
+        "code": "AL"
+    },
+    {
+        "name": "Armenia",
+        "solded": false,
+        "code": "AM"
+    },
+    {
+        "name": "Angola",
+        "solded": false,
+        "code": "AO"
+    },
+    {
+        "name": "Antarctica",
+        "solded": false,
+        "code": "AQ"
+    },
+    {
+        "name": "Argentina",
+        "solded": false,
+        "code": "AR"
+    },
+    {
+        "name": "American Samoa",
+        "solded": false,
+        "code": "AS"
+    },
+    {
+        "name": "Austria",
+        "solded": false,
+        "code": "AT"
+    },
+    {
+        "name": "Australia",
+        "solded": false,
+        "code": "AU"
+    },
+    {
+        "name": "Aruba",
+        "solded": false,
+        "code": "AW"
+    },
+    {
+        "name": "Aland Islands",
+        "solded": false,
+        "code": "AX"
+    },
+    {
+        "name": "Azerbaijan",
+        "solded": false,
+        "code": "AZ"
+    },
+    {
+        "name": "Bosnia and Herzegovina",
+        "solded": false,
+        "code": "BA"
+    },
+    {
+        "name": "Barbados",
+        "solded": false,
+        "code": "BB"
+    },
+    {
+        "name": "Bangladesh",
+        "solded": false,
+        "code": "BD"
+    },
+    {
+        "name": "Belgium",
+        "solded": false,
+        "code": "BE"
+    },
+    {
+        "name": "Burkina Faso",
+        "solded": false,
+        "code": "BF"
+    },
+    {
+        "name": "Bulgaria",
+        "solded": false,
+        "code": "BG"
+    },
+    {
+        "name": "Bahrain",
+        "solded": false,
+        "code": "BH"
+    },
+    {
+        "name": "Burundi",
+        "solded": false,
+        "code": "BI"
+    },
+    {
+        "name": "Benin",
+        "solded": false,
+        "code": "BJ"
+    },
+    {
+        "name": "Saint Barthelemy",
+        "solded": false,
+        "code": "BL"
+    },
+    {
+        "name": "Bermuda",
+        "solded": false,
+        "code": "BM"
+    },
+    {
+        "name": "Brunei",
+        "solded": false,
+        "code": "BN"
+    },
+    {
+        "name": "Bolivia",
+        "solded": false,
+        "code": "BO"
+    },
+    {
+        "name": "Bonair, Saint Eustachius and Saba",
+        "solded": false,
+        "code": "BQ"
+    },
+    {
+        "name": "Brazil",
+        "solded": false,
+        "code": "BR"
+    },
+    {
+        "name": "Bahamas",
+        "solded": false,
+        "code": "BS"
+    },
+    {
+        "name": "Bhutan",
+        "solded": false,
+        "code": "BT"
+    },
+    {
+        "name": "Bouvet Island",
+        "solded": false,
+        "code": "BV"
+    },
+    {
+        "name": "Botswana",
+        "solded": false,
+        "code": "BW"
+    },
+    {
+        "name": "Belarus",
+        "solded": false,
+        "code": "BY"
+    },
+    {
+        "name": "Belize",
+        "solded": false,
+        "code": "BZ"
+    },
+    {
+        "name": "Canada",
+        "solded": false,
+        "code": "CA"
+    },
+    {
+        "name": "Cocos (Keeling) Islands",
+        "solded": false,
+        "code": "CC"
+    },
+    {
+        "name": "Democratic Republic of Congo",
+        "solded": false,
+        "code": "CD"
+    },
+    {
+        "name": "Central African Republic",
+        "solded": false,
+        "code": "CF"
+    },
+    {
+        "name": "Republic of Congo",
+        "solded": false,
+        "code": "CG"
+    },
+    {
+        "name": "Switzerland",
+        "solded": false,
+        "code": "CH"
+    },
+    {
+        "name": "Côte d'Ivoire",
+        "solded": false,
+        "code": "CI"
+    },
+    {
+        "name": "Cook Islands",
+        "solded": false,
+        "code": "CK"
+    },
+    {
+        "name": "Chile",
+        "solded": false,
+        "code": "CL"
+    },
+    {
+        "name": "Cameroon",
+        "solded": false,
+        "code": "CM"
+    },
+    {
+        "name": "China",
+        "solded": false,
+        "code": "CN"
+    },
+    {
+        "name": "Colombia",
+        "solded": false,
+        "code": "CO"
+    },
+    {
+        "name": "Costa Rica",
+        "solded": false,
+        "code": "CR"
+    },
+    {
+        "name": "Cuba",
+        "solded": false,
+        "code": "CU"
+    },
+    {
+        "name": "Cape Verde",
+        "solded": false,
+        "code": "CV"
+    },
+    {
+        "name": "Curaçao",
+        "solded": false,
+        "code": "CW"
+    },
+    {
+        "name": "Christmas Island",
+        "solded": false,
+        "code": "CX"
+    },
+    {
+        "name": "Cyprus",
+        "solded": false,
+        "code": "CY"
+    },
+    {
+        "name": "Czechia",
+        "solded": false,
+        "code": "CZ"
+    },
+    {
+        "name": "Germany",
+        "solded": false,
+        "code": "DE"
+    },
+    {
+        "name": "Djibouti",
+        "solded": false,
+        "code": "DJ"
+    },
+    {
+        "name": "Denmark",
+        "solded": false,
+        "code": "DK"
+    },
+    {
+        "name": "Dominica",
+        "solded": false,
+        "code": "DM"
+    },
+    {
+        "name": "Dominican Republic",
+        "solded": false,
+        "code": "DO"
+    },
+    {
+        "name": "Algeria",
+        "solded": false,
+        "code": "DZ"
+    },
+    {
+        "name": "Ecuador",
+        "solded": false,
+        "code": "EC"
+    },
+    {
+        "name": "Estonia",
+        "solded": false,
+        "code": "EE"
+    },
+    {
+        "name": "Egypt",
+        "solded": false,
+        "code": "EG"
+    },
+    {
+        "name": "Western Sahara",
+        "solded": false,
+        "code": "EH"
+    },
+    {
+        "name": "Eritrea",
+        "solded": false,
+        "code": "ER"
+    },
+    {
+        "name": "Spain",
+        "solded": false,
+        "code": "ES"
+    },
+    {
+        "name": "Ethiopia",
+        "solded": false,
+        "code": "ET"
+    },
+    {
+        "name": "Finland",
+        "solded": false,
+        "code": "FI"
+    },
+    {
+        "name": "Fiji",
+        "solded": false,
+        "code": "FJ"
+    },
+    {
+        "name": "Falkland Islands",
+        "solded": false,
+        "code": "FK"
+    },
+    {
+        "name": "Federated States of Micronesia",
+        "solded": false,
+        "code": "FM"
+    },
+    {
+        "name": "Faroe Islands",
+        "solded": false,
+        "code": "FO"
+    },
+    {
+        "name": "France",
+        "solded": false,
+        "code": "FR"
+    },
+    {
+        "name": "Gabon",
+        "solded": false,
+        "code": "GA"
+    },
+    {
+        "name": "United Kingdom",
+        "solded": false,
+        "code": "GB"
+    },
+    {
+        "name": "Grenada",
+        "solded": false,
+        "code": "GD"
+    },
+    {
+        "name": "Georgia",
+        "solded": false,
+        "code": "GE"
+    },
+    {
+        "name": "French Guiana",
+        "solded": false,
+        "code": "GF"
+    },
+    {
+        "name": "Guernsey",
+        "solded": false,
+        "code": "GG"
+    },
+    {
+        "name": "Ghana",
+        "solded": false,
+        "code": "GH"
+    },
+    {
+        "name": "Gibraltar",
+        "solded": false,
+        "code": "GI"
+    },
+    {
+        "name": "Greenland",
+        "solded": false,
+        "code": "GL"
+    },
+    {
+        "name": "Gambia",
+        "solded": false,
+        "code": "GM"
+    },
+    {
+        "name": "Guinea",
+        "solded": false,
+        "code": "GN"
+    },
+    {
+        "name": "Glorioso Islands",
+        "solded": false,
+        "code": "GO"
+    },
+    {
+        "name": "Guadeloupe",
+        "solded": false,
+        "code": "GP"
+    },
+    {
+        "name": "Equatorial Guinea",
+        "solded": false,
+        "code": "GQ"
+    },
+    {
+        "name": "Greece",
+        "solded": false,
+        "code": "GR"
+    },
+    {
+        "name": "South Georgia and South Sandwich Islands",
+        "solded": false,
+        "code": "GS"
+    },
+    {
+        "name": "Guatemala",
+        "solded": false,
+        "code": "GT"
+    },
+    {
+        "name": "Guam",
+        "solded": false,
+        "code": "GU"
+    },
+    {
+        "name": "Guinea-Bissau",
+        "solded": false,
+        "code": "GW"
+    },
+    {
+        "name": "Guyana",
+        "solded": false,
+        "code": "GY"
+    },
+    {
+        "name": "Hong Kong",
+        "solded": false,
+        "code": "HK"
+    },
+    {
+        "name": "Heard Island and McDonald Islands",
+        "solded": false,
+        "code": "HM"
+    },
+    {
+        "name": "Honduras",
+        "solded": false,
+        "code": "HN"
+    },
+    {
+        "name": "Croatia",
+        "solded": false,
+        "code": "HR"
+    },
+    {
+        "name": "Haiti",
+        "solded": false,
+        "code": "HT"
+    },
+    {
+        "name": "Hungary",
+        "solded": false,
+        "code": "HU"
+    },
+    {
+        "name": "Indonesia",
+        "solded": false,
+        "code": "ID"
+    },
+    {
+        "name": "Ireland",
+        "solded": false,
+        "code": "IE"
+    },
+    {
+        "name": "Israel",
+        "solded": false,
+        "code": "IL"
+    },
+    {
+        "name": "Isle of Man",
+        "solded": false,
+        "code": "IM"
+    },
+    {
+        "name": "India",
+        "solded": false,
+        "code": "IN"
+    },
+    {
+        "name": "British Indian Ocean Territory",
+        "solded": false,
+        "code": "IO"
+    },
+    {
+        "name": "Iraq",
+        "solded": false,
+        "code": "IQ"
+    },
+    {
+        "name": "Iran",
+        "solded": false,
+        "code": "IR"
+    },
+    {
+        "name": "Iceland",
+        "solded": false,
+        "code": "IS"
+    },
+    {
+        "name": "Italy",
+        "solded": false,
+        "code": "IT"
+    },
+    {
+        "name": "Jersey",
+        "solded": false,
+        "code": "JE"
+    },
+    {
+        "name": "Jamaica",
+        "solded": false,
+        "code": "JM"
+    },
+    {
+        "name": "Jordan",
+        "solded": false,
+        "code": "JO"
+    },
+    {
+        "name": "Japan",
+        "solded": false,
+        "code": "JP"
+    },
+    {
+        "name": "Juan De Nova Island",
+        "solded": false,
+        "code": "JU"
+    },
+    {
+        "name": "Kenya",
+        "solded": false,
+        "code": "KE"
+    },
+    {
+        "name": "Kyrgyzstan",
+        "solded": false,
+        "code": "KG"
+    },
+    {
+        "name": "Cambodia",
+        "solded": false,
+        "code": "KH"
+    },
+    {
+        "name": "Kiribati",
+        "solded": false,
+        "code": "KI"
+    },
+    {
+        "name": "Comoros",
+        "solded": false,
+        "code": "KM"
+    },
+    {
+        "name": "Saint Kitts and Nevis",
+        "solded": false,
+        "code": "KN"
+    },
+    {
+        "name": "North Korea",
+        "solded": false,
+        "code": "KP"
+    },
+    {
+        "name": "South Korea",
+        "solded": false,
+        "code": "KR"
+    },
+    {
+        "name": "Kuwait",
+        "solded": false,
+        "code": "KW"
+    },
+    {
+        "name": "Cayman Islands",
+        "solded": false,
+        "code": "KY"
+    },
+    {
+        "name": "Kazakhstan",
+        "solded": false,
+        "code": "KZ"
+    },
+    {
+        "name": "Lao People's Democratic Republic",
+        "solded": false,
+        "code": "LA"
+    },
+    {
+        "name": "Lebanon",
+        "solded": false,
+        "code": "LB"
+    },
+    {
+        "name": "Saint Lucia",
+        "solded": false,
+        "code": "LC"
+    },
+    {
+        "name": "Liechtenstein",
+        "solded": false,
+        "code": "LI"
+    },
+    {
+        "name": "Sri Lanka",
+        "solded": false,
+        "code": "LK"
+    },
+    {
+        "name": "Liberia",
+        "solded": false,
+        "code": "LR"
+    },
+    {
+        "name": "Lesotho",
+        "solded": false,
+        "code": "LS"
+    },
+    {
+        "name": "Lithuania",
+        "solded": false,
+        "code": "LT"
+    },
+    {
+        "name": "Luxembourg",
+        "solded": false,
+        "code": "LU"
+    },
+    {
+        "name": "Latvia",
+        "solded": false,
+        "code": "LV"
+    },
+    {
+        "name": "Libya",
+        "solded": false,
+        "code": "LY"
+    },
+    {
+        "name": "Morocco",
+        "solded": false,
+        "code": "MA"
+    },
+    {
+        "name": "Monaco",
+        "solded": false,
+        "code": "MC"
+    },
+    {
+        "name": "Moldova",
+        "solded": false,
+        "code": "MD"
+    },
+    {
+        "name": "Montenegro",
+        "solded": false,
+        "code": "ME"
+    },
+    {
+        "name": "Saint Martin",
+        "solded": false,
+        "code": "MF"
+    },
+    {
+        "name": "Madagascar",
+        "solded": false,
+        "code": "MG"
+    },
+    {
+        "name": "Marshall Islands",
+        "solded": false,
+        "code": "MH"
+    },
+    {
+        "name": "North Macedonia",
+        "solded": false,
+        "code": "MK"
+    },
+    {
+        "name": "Mali",
+        "solded": false,
+        "code": "ML"
+    },
+    {
+        "name": "Myanmar",
+        "solded": false,
+        "code": "MM"
+    },
+    {
+        "name": "Mongolia",
+        "solded": false,
+        "code": "MN"
+    },
+    {
+        "name": "Macau",
+        "solded": false,
+        "code": "MO"
+    },
+    {
+        "name": "Northern Mariana Islands",
+        "solded": false,
+        "code": "MP"
+    },
+    {
+        "name": "Martinique",
+        "solded": false,
+        "code": "MQ"
+    },
+    {
+        "name": "Mauritania",
+        "solded": false,
+        "code": "MR"
+    },
+    {
+        "name": "Montserrat",
+        "solded": false,
+        "code": "MS"
+    },
+    {
+        "name": "Malta",
+        "solded": false,
+        "code": "MT"
+    },
+    {
+        "name": "Mauritius",
+        "solded": false,
+        "code": "MU"
+    },
+    {
+        "name": "Maldives",
+        "solded": false,
+        "code": "MV"
+    },
+    {
+        "name": "Malawi",
+        "solded": false,
+        "code": "MW"
+    },
+    {
+        "name": "Mexico",
+        "solded": false,
+        "code": "MX"
+    },
+    {
+        "name": "Malaysia",
+        "solded": false,
+        "code": "MY"
+    },
+    {
+        "name": "Mozambique",
+        "solded": false,
+        "code": "MZ"
+    },
+    {
+        "name": "Namibia",
+        "solded": false,
+        "code": "NA"
+    },
+    {
+        "name": "New Caledonia",
+        "solded": false,
+        "code": "NC"
+    },
+    {
+        "name": "Niger",
+        "solded": false,
+        "code": "NE"
+    },
+    {
+        "name": "Norfolk Island",
+        "solded": false,
+        "code": "NF"
+    },
+    {
+        "name": "Nigeria",
+        "solded": false,
+        "code": "NG"
+    },
+    {
+        "name": "Nicaragua",
+        "solded": false,
+        "code": "NI"
+    },
+    {
+        "name": "Netherlands",
+        "solded": false,
+        "code": "NL"
+    },
+    {
+        "name": "Norway",
+        "solded": false,
+        "code": "NO"
+    },
+    {
+        "name": "Nepal",
+        "solded": false,
+        "code": "NP"
+    },
+    {
+        "name": "Nauru",
+        "solded": false,
+        "code": "NR"
+    },
+    {
+        "name": "Niue",
+        "solded": false,
+        "code": "NU"
+    },
+    {
+        "name": "New Zealand",
+        "solded": false,
+        "code": "NZ"
+    },
+    {
+        "name": "Oman",
+        "solded": false,
+        "code": "OM"
+    },
+    {
+        "name": "Panama",
+        "solded": false,
+        "code": "PA"
+    },
+    {
+        "name": "Peru",
+        "solded": false,
+        "code": "PE"
+    },
+    {
+        "name": "French Polynesia",
+        "solded": false,
+        "code": "PF"
+    },
+    {
+        "name": "Papua New Guinea",
+        "solded": false,
+        "code": "PG"
+    },
+    {
+        "name": "Philippines",
+        "solded": false,
+        "code": "PH"
+    },
+    {
+        "name": "Pakistan",
+        "solded": false,
+        "code": "PK"
+    },
+    {
+        "name": "Poland",
+        "solded": false,
+        "code": "PL"
+    },
+    {
+        "name": "Saint Pierre and Miquelon",
+        "solded": false,
+        "code": "PM"
+    },
+    {
+        "name": "Pitcairn Islands",
+        "solded": false,
+        "code": "PN"
+    },
+    {
+        "name": "Puerto Rico",
+        "solded": false,
+        "code": "PR"
+    },
+    {
+        "name": "Palestinian Territories",
+        "solded": false,
+        "code": "PS"
+    },
+    {
+        "name": "Portugal",
+        "solded": false,
+        "code": "PT"
+    },
+    {
+        "name": "Palau",
+        "solded": false,
+        "code": "PW"
+    },
+    {
+        "name": "Paraguay",
+        "solded": false,
+        "code": "PY"
+    },
+    {
+        "name": "Qatar",
+        "solded": false,
+        "code": "QA"
+    },
+    {
+        "name": "Reunion",
+        "solded": false,
+        "code": "RE"
+    },
+    {
+        "name": "Romania",
+        "solded": false,
+        "code": "RO"
+    },
+    {
+        "name": "Serbia",
+        "solded": false,
+        "code": "RS"
+    },
+    {
+        "name": "Russia",
+        "solded": false,
+        "code": "RU"
+    },
+    {
+        "name": "Rwanda",
+        "solded": false,
+        "code": "RW"
+    },
+    {
+        "name": "Saudi Arabia",
+        "solded": false,
+        "code": "SA"
+    },
+    {
+        "name": "Solomon Islands",
+        "solded": false,
+        "code": "SB"
+    },
+    {
+        "name": "Seychelles",
+        "solded": false,
+        "code": "SC"
+    },
+    {
+        "name": "Sudan",
+        "solded": false,
+        "code": "SD"
+    },
+    {
+        "name": "Sweden",
+        "solded": false,
+        "code": "SE"
+    },
+    {
+        "name": "Singapore",
+        "solded": false,
+        "code": "SG"
+    },
+    {
+        "name": "Saint Helena",
+        "solded": false,
+        "code": "SH"
+    },
+    {
+        "name": "Slovenia",
+        "solded": false,
+        "code": "SI"
+    },
+    {
+        "name": "Svalbard and Jan Mayen",
+        "solded": false,
+        "code": "SJ"
+    },
+    {
+        "name": "Slovakia",
+        "solded": false,
+        "code": "SK"
+    },
+    {
+        "name": "Sierra Leone",
+        "solded": false,
+        "code": "SL"
+    },
+    {
+        "name": "San Marino",
+        "solded": false,
+        "code": "SM"
+    },
+    {
+        "name": "Senegal",
+        "solded": false,
+        "code": "SN"
+    },
+    {
+        "name": "Somalia",
+        "solded": false,
+        "code": "SO"
+    },
+    {
+        "name": "Suriname",
+        "solded": false,
+        "code": "SR"
+    },
+    {
+        "name": "South Sudan",
+        "solded": false,
+        "code": "SS"
+    },
+    {
+        "name": "Sao Tome and Principe",
+        "solded": false,
+        "code": "ST"
+    },
+    {
+        "name": "El Salvador",
+        "solded": false,
+        "code": "SV"
+    },
+    {
+        "name": "Sint Maarten",
+        "solded": false,
+        "code": "SX"
+    },
+    {
+        "name": "Syria",
+        "solded": false,
+        "code": "SY"
+    },
+    {
+        "name": "Eswatini",
+        "solded": false,
+        "code": "SZ"
+    },
+    {
+        "name": "Turks and Caicos Islands",
+        "solded": false,
+        "code": "TC"
+    },
+    {
+        "name": "Chad",
+        "solded": false,
+        "code": "TD"
+    },
+    {
+        "name": "French Southern and Antarctic Lands",
+        "solded": false,
+        "code": "TF"
+    },
+    {
+        "name": "Togo",
+        "solded": false,
+        "code": "TG"
+    },
+    {
+        "name": "Thailand",
+        "solded": false,
+        "code": "TH"
+    },
+    {
+        "name": "Tajikistan",
+        "solded": false,
+        "code": "TJ"
+    },
+    {
+        "name": "Tokelau",
+        "solded": false,
+        "code": "TK"
+    },
+    {
+        "name": "Timor-Leste",
+        "solded": false,
+        "code": "TL"
+    },
+    {
+        "name": "Turkmenistan",
+        "solded": false,
+        "code": "TM"
+    },
+    {
+        "name": "Tunisia",
+        "solded": false,
+        "code": "TN"
+    },
+    {
+        "name": "Tonga",
+        "solded": false,
+        "code": "TO"
+    },
+    {
+        "name": "Turkey",
+        "solded": false,
+        "code": "TR"
+    },
+    {
+        "name": "Trinidad and Tobago",
+        "solded": false,
+        "code": "TT"
+    },
+    {
+        "name": "Tuvalu",
+        "solded": false,
+        "code": "TV"
+    },
+    {
+        "name": "Taiwan",
+        "solded": false,
+        "code": "TW"
+    },
+    {
+        "name": "Tanzania",
+        "solded": false,
+        "code": "TZ"
+    },
+    {
+        "name": "Ukraine",
+        "solded": false,
+        "code": "UA"
+    },
+    {
+        "name": "Uganda",
+        "solded": false,
+        "code": "UG"
+    },
+    {
+        "name": "Jarvis Island",
+        "solded": false,
+        "code": "UM-DQ"
+    },
+    {
+        "name": "Baker Island",
+        "solded": false,
+        "code": "UM-FQ"
+    },
+    {
+        "name": "Howland Island",
+        "solded": false,
+        "code": "UM-HQ"
+    },
+    {
+        "name": "Johnston Atoll",
+        "solded": false,
+        "code": "UM-JQ"
+    },
+    {
+        "name": "Midway Islands",
+        "solded": false,
+        "code": "UM-MQ"
+    },
+    {
+        "name": "Wake Island",
+        "solded": false,
+        "code": "UM-WQ"
+    },
+    {
+        "name": "United States",
+        "solded": false,
+        "code": "US"
+    },
+    {
+        "name": "Uruguay",
+        "solded": false,
+        "code": "UY"
+    },
+    {
+        "name": "Uzbekistan",
+        "solded": false,
+        "code": "UZ"
+    },
+    {
+        "name": "Vatican City",
+        "solded": false,
+        "code": "VA"
+    },
+    {
+        "name": "Saint Vincent and the Grenadines",
+        "solded": false,
+        "code": "VC"
+    },
+    {
+        "name": "Venezuela",
+        "solded": false,
+        "code": "VE"
+    },
+    {
+        "name": "British Virgin Islands",
+        "solded": false,
+        "code": "VG"
+    },
+    {
+        "name": "US Virgin Islands",
+        "solded": false,
+        "code": "VI"
+    },
+    {
+        "name": "Vietnam",
+        "solded": false,
+        "code": "VN"
+    },
+    {
+        "name": "Vanuatu",
+        "solded": false,
+        "code": "VU"
+    },
+    {
+        "name": "Wallis and Futuna",
+        "solded": false,
+        "code": "WF"
+    },
+    {
+        "name": "Samoa",
+        "solded": false,
+        "code": "WS"
+    },
+    {
+        "name": "Kosovo",
+        "solded": false,
+        "code": "XK"
+    },
+    {
+        "name": "Yemen",
+        "solded": false,
+        "code": "YE"
+    },
+    {
+        "name": "Mayotte",
+        "solded": false,
+        "code": "YT"
+    },
+    {
+        "name": "South Africa",
+        "solded": false,
+        "code": "ZA"
+    },
+    {
+        "name": "Zambia",
+        "solded": false,
+        "code": "ZM"
+    },
+    {
+        "name": "Zimbabwe",
+        "solded": false,
+        "code": "ZW"
+    }
+]
